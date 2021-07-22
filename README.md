@@ -1,0 +1,2 @@
+# HexeDocs
+Hexe Documentation
