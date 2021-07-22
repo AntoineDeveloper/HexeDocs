@@ -59,4 +59,16 @@ If the Hexe welcoming system is not working as intented, please verify and redo 
     >help settings
 If the problem persists join the support discord server, https://hexebot.tk/support
 
+### Other Problems?
+Please join the support server for immediate help, more issues will be added to this document eventually
+
+## Concerns
+If you do have any concerns about the bot about either security or user privacy please do create a ticket in the support server in the security concerns on the support server and we will be glad to help you as soon as possible
+
+## Hexe's Credits
+
+### Owner
+**Antoine#0004** is the official owner of this bot
+### Full Time developer
+**Antoine#0004** is the official developer of this bot
 
