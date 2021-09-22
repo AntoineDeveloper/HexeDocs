@@ -68,7 +68,7 @@ If you do have any concerns about the bot about either security or user privacy 
 ## Hexe's Credits
 
 ### Owner
-**Antoine#0004** is the official owner of this bot
+**Antoine#2542** is the official owner of this bot
 ### Full Time developer
-**Antoine#0004** is the official developer of this bot
+**Antoine#2542** is the official developer of this bot
 
