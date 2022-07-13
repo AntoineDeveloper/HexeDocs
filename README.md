@@ -46,7 +46,7 @@ Economy gets updated a lot so to see all of the commands of the economy system u
     >add ( to add the bot )
 
 ## Troubleshooting
-If you encounter any problems with the bot pleade make sure to consult all the possible explanations here, if these do not fix your problem please visit https://hexebot.tk/support to get some help.
+If you encounter any problems with the bot pleade make sure to consult all the possible explanations here, if these do not fix your problem please visit https://hexebot.net/support to get some help.
 
 ### Forgotten prefix
 If you forgot what you set as Hexe's prefix do not worry as there is a command that uses the default hexe prefix all the time so you do not have to worry.
@@ -57,7 +57,7 @@ If you forgot what you set as Hexe's prefix do not worry as there is a command t
 If the Hexe welcoming system is not working as intented, please verify and redo all the server settings commands
 
     >help settings
-If the problem persists join the support discord server, https://hexebot.tk/support
+If the problem persists join the support discord server, https://hexebot.net/support
 
 ### Other Problems?
 Please join the support server for immediate help, more issues will be added to this document eventually
